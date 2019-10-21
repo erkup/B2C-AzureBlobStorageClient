@@ -8,3 +8,5 @@ There are a set of CSS examples provided in the `sample_templates` directory tha
 The code for the program is in the `B2C-AzureBlobStorage-Client` directory.  It uses the Windows Azure Storage SDK, which is [available on GitHub](https://github.com/Azure/azure-storage-net).
 
 The tutorial for Azure AD B2C UI Customization is [available on Azure.com](https://azure.microsoft.com/documentation/articles/active-directory-b2c-reference-ui-customization-helper-tool).
+##ekupfer private copy
+##Test #2
